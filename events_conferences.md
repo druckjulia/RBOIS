@@ -2,7 +2,7 @@
 # some cool conferences
 
 ## milwaukee
-[cyphercon](https://cyphercon.com/)
+[cyphercon](https://cyphercon.com/) *why am i not in class? (it's for work)*
 
 ## minneapolis
 [secretcon](https://secretcon.com/)
