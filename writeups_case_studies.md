@@ -31,4 +31,4 @@ also, a list of past professor recommendations of where to find writeups and cas
 
 [schneier on security](https://www.schneier.com/)
 
-and if all this was too long, and you didn't want to read it, may i recommend: [tldr](https://tldr.tech/infosec)
+*and if all this was too long, and you didn't want to read it, may i recommend: [tldr](https://tldr.tech/infosec)*
