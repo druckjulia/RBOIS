@@ -15,7 +15,7 @@ https://discord.com/invite/momentum
 
 https://forums.kali.org/
 
-## minnesota specific
+## mn specific
 
 [gopherhack](https://gopherhack.com/) is a hacking & CTF club at the University of Minnesota
 
