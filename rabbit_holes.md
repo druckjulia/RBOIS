@@ -3,7 +3,7 @@ unfortunately, i didn't go down any rabbit holes while building this repo, but i
 
 the most recent rabbit hole i went down, related to [cross device tracking](https://en.wikipedia.org/wiki/Cross-device_tracking#Ultrasonic_tracking), specifically ultrasonic cross device tracking (uXDT) and bioMEMS
 
-and the paper which i wrote on the topic for one of my classes (it had to be a novel concept, so admittedly, it's a little out there)
+here's the paper which i wrote on the topic for one of my classes (it had to be a novel concept, so admittedly, it's a little out there)
 
 ## It’s (Not Only) That Damn Phone: Using BioMEMS and uXDT for Tracking
 Julia Druck
