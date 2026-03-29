@@ -9,7 +9,7 @@
 
 flipper has a [community page](https://flipper.net/pages/community) on their site linking to their blog, discord, repos, and more
 
-https://www.freegeektwincities.org/
+[free geek twin cities](https://www.freegeektwincities.org/) is a community of tech enthusiasts (and a cool place to volunteer)
 
 https://dc612.org/index.php/about/
 
