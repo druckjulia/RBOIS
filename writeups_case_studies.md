@@ -3,4 +3,4 @@ i was just listening to a [darknet diaries](https://darknetdiaries.com/) ep on [
 
 [bleeping computer](https://www.bleepingcomputer.com/), another professor recommendation
 
-and if all this was too long, and you didn't want to read, may i recommend: [tldr](https://tldr.tech/infosec)
+and if all this was too long, and you didn't want to read it, may i recommend: [tldr](https://tldr.tech/infosec)
