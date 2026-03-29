@@ -1,7 +1,7 @@
 
 # below are some communities
 
-[bsides] (https://bsides.org/) 
+[bsides] (https://bsides.org/) is a community for hosting cyber events / conferences
 
 https://gopherhack.com/
 
