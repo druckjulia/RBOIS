@@ -1,11 +1,11 @@
 
-# below are some communities
+# below are some communities for beginners to check out
 
 [bsides](https://bsides.org/) is a community for hosting cyber events / conferences
 
-https://gopherhack.com/
+[gopherhack](https://gopherhack.com/) is a hacking & CTF club at the University of Minnesota
 
-https://burbsec.com/
+[burbsec](https://burbsec.com/) is a community for infosec meetups with a variety of location-specific groups
 
 https://flipper.net/pages/community
 
