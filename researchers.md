@@ -2,4 +2,4 @@
 
 not strictly about cybersecurity, but there is always something new to learn on [quanta](https://www.quantamagazine.org/computer-science/)
 
-you can find more cybersecurity research papers through [SANS](https://www.sans.edu/cyber-research/)
+you can find more cybersecurity research papers (and, subsequently, researchers) through [SANS](https://www.sans.edu/cyber-research/)
