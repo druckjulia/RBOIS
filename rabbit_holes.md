@@ -13,6 +13,10 @@ after reading articles on the solarwinds attack, I had many questions about how 
 
 I found [openssf](https://openssf.org/) which includes SLSA which apparently requires/recommends an isolated build machine as well as signed provenance 
 
+there is also [reproducible builds](https://reproducible-builds.org/) and [in toto](https://in-toto.io/)
+
+
+
 # the most recent rabbit hole i went down
 related to [cross device tracking](https://en.wikipedia.org/wiki/Cross-device_tracking#Ultrasonic_tracking), specifically ultrasonic cross device tracking (uXDT) and bioMEMS
 
