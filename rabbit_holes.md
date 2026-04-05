@@ -8,7 +8,7 @@
  \|     /__| |
    \_____\ \__\
 -->
-#update
+# update
 after reading articles on the solarwinds attack, I had many questions about how the attack could have been prevented or better detected
 
 I found [openssf](https://openssf.org/) which includes SLSA which apparently requires/recommends an isolated build machine as well as signed provenance 
